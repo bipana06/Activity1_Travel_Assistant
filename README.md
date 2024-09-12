@@ -21,5 +21,3 @@ The following credentials are required to run the notebook:
   1. For departure/destination, input the Airport Codes of the respective locations.
   2. When entering the travel class, make sure the input is capitalized.
   3. Finally, for the local currency, put the short form of the currencies, for example USD for Unided States Dollar. 
-
-hii
